@@ -1,6 +1,7 @@
 # CPNT262 - Dynamic Image Gallery 
 
 [Github](https://github.com/nerakmari/cpnt262-a2)
+
 [GH Pages](https://nerakmari.github.io/cpnt262-a2/)
 
 ## Context 
